@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.primestudios.jpgamehub",
+    "sha256_cert_fingerprints": ["05:53:FA:18:3A:32:EF:A5:9A:3A:B3:16:31:17:4F:DE:AC:D3:90:B5:2B:C6:CB:7C:AC:9D:21:61:CF:1B:9D:5E"]
+  }
+}]
